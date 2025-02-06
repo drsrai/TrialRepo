@@ -7,6 +7,15 @@ date: "2025-02-06"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+git status
+
+git add -A 
+
+git commit -am '<message>' 
+
+git push 
+
+git pull 
 
 ## R Markdown
 
